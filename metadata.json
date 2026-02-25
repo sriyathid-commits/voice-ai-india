@@ -1,0 +1,7 @@
+{
+  "name": "Voice for Bharat aiiiiiiiiii",
+  "description": "A voice-first, AI-powered platform making government welfare information accessible in multiple Indian languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
